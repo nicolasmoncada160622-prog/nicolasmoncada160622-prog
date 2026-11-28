@@ -157,7 +157,7 @@ Me atraen el desarrollo backend, el IoT, la ciberseguridad y el diseño visual. 
 - **Racha actual:** 0 días (mejor racha: 3)
 - **Días activos:** 14
 - **Repositorios públicos:** 4
-- **Última sincronización:** `2026-11-28 06:54 UTC`
+- **Última sincronización:** `2026-11-28 16:41 UTC`
 
 </details>
 
@@ -187,10 +187,10 @@ Me atraen el desarrollo backend, el IoT, la ciberseguridad y el diseño visual. 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg" />
-  <img src="./assets/footer-dark.svg" width="100%" alt="Insert Coin — Gracias por jugar · Sync 2026-11-28 06:54 UTC" />
+  <img src="./assets/footer-dark.svg" width="100%" alt="Insert Coin — Gracias por jugar · Sync 2026-11-28 16:41 UTC" />
 </picture>
 </div>
 
 <div align="center">
-  <sub><!-- LAST_ACTIVE_START -->⚡ <b>Profile Engine v2.0</b> · 83 contribuciones · 14 días activos · racha 0 · 4 repos públicos · sync 28 NOV 2026 · 01:54 COT<!-- LAST_ACTIVE_END --></sub>
+  <sub><!-- LAST_ACTIVE_START -->⚡ <b>Profile Engine v2.0</b> · 83 contribuciones · 14 días activos · racha 0 · 4 repos públicos · sync 28 NOV 2026 · 11:41 COT<!-- LAST_ACTIVE_END --></sub>
 </div>

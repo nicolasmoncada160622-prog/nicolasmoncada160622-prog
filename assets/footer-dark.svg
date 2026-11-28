@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 148" width="100%" role="img" aria-labelledby="ft_darkTitle ft_darkDesc">
 <title id="ft_darkTitle">Insert Coin — Gracias por jugar</title>
-<desc id="ft_darkDesc">Banner final estilo arcade con telemetría de sincronización: 2026-11-28 06:54 UTC.</desc>
+<desc id="ft_darkDesc">Banner final estilo arcade con telemetría de sincronización: 2026-11-28 16:41 UTC.</desc>
 <defs>
 <pattern id="ft_darkBg" width="8" height="8" patternUnits="userSpaceOnUse"><rect width="8" height="8" fill="#131826"/><rect x="0" y="0" width="4" height="4" fill="#181F31"/></pattern>
 <pattern id="ft_darkScan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="2" fill="#FFFFFF" opacity="0.065"/></pattern>
@@ -44,7 +44,7 @@
 <text x="806" y="72" font-size="12" fill="#39FF14" text-anchor="middle" font-family="ui-monospace, &#x27;Cascadia Code&#x27;, &#x27;Fira Code&#x27;, &#x27;Consolas&#x27;, monospace" font-weight="700" letter-spacing="1.4" class="ft-pulse">READY!</text>
 <line x1="24" y1="102" x2="872" y2="102" stroke="#26304A" stroke-width="1.5"/>
 <rect x="24" y="115" width="8" height="8" fill="#39FF14" class="ft-pulse" shape-rendering="crispEdges"/>
-<text x="40" y="124" font-size="11.5" fill="#94A3B8" text-anchor="start" font-family="ui-monospace, &#x27;Cascadia Code&#x27;, &#x27;Fira Code&#x27;, &#x27;Consolas&#x27;, monospace" font-weight="700" letter-spacing="0.6">SYNC: 2026-11-28 06:54 UTC · PROFILE ENGINE v2.0</text>
+<text x="40" y="124" font-size="11.5" fill="#94A3B8" text-anchor="start" font-family="ui-monospace, &#x27;Cascadia Code&#x27;, &#x27;Fira Code&#x27;, &#x27;Consolas&#x27;, monospace" font-weight="700" letter-spacing="0.6">SYNC: 2026-11-28 16:41 UTC · PROFILE ENGINE v2.0</text>
 <text x="872" y="124" font-size="11" fill="#FF2A85" text-anchor="end" font-family="ui-monospace, &#x27;Cascadia Code&#x27;, &#x27;Fira Code&#x27;, &#x27;Consolas&#x27;, monospace" font-weight="700" letter-spacing="0.6">BOGOTÁ, COLOMBIA · UTC-5 · NICOLÁS.OS</text>
 <rect x="4" y="4" width="888" height="136" fill="url(#ft_darkScan)" shape-rendering="crispEdges"/>
 </svg>
